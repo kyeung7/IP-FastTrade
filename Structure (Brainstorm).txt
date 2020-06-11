@@ -1,0 +1,11 @@
+1. Option to choose stock/ticker to view
+	1a. Option to select market to trade in
+	1b. Main screen shows todays losers/gainers
+	1c. Show watchlist along with main
+2. Show graph 
+	2a. Graph plot settings ie: candle, dots, etc.
+	2b. Graph movement, setting start end ranges, scaling, etc.
+3. Draw settings
+	3a. Freedraw straight lines between 2 points on graph
+	3b. Calculate average trendlines of all points/high/lows from data
+	3c. Hovering above areas of graph should show data at that point, so price, high/low, etc.
